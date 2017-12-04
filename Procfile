@@ -1,1 +1,1 @@
-worker: node bot.js Relax & Chill
+worker: node bot.js Relax-Chill
